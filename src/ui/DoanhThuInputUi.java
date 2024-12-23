@@ -16,8 +16,8 @@ public class DoanhThuInputUi {
         this.tongDoanhThuController = tongDoanhThuController;
         this.keyBoard = keyBoard;
         this.screenPrompt = screenPrompt;
-        thangPrompt = "NHẬP THÁNG: ";
-        namPrompt = "NHẬP NĂM: ";
+        thangPrompt = "NHAP THANG: ";
+        namPrompt = "NHAP NAM: ";
     }
 
     public void tongDoanhThuTheoThang() {
@@ -26,7 +26,7 @@ public class DoanhThuInputUi {
         int thang = keyBoard.nextInt();
 
         while (thang < 1 || thang > 12) {
-            screenPrompt.println("Vui lòng nhập lại tháng");
+            screenPrompt.println("Vui Long Nhap Lai Thang");
             screenPrompt.print(thangPrompt);
             screenPrompt.flush();
             thang = keyBoard.nextInt();
