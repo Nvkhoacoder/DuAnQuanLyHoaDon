@@ -76,7 +76,6 @@ public class SuaHDDaoFile extends SuaDao {
         try (Scanner fileScanner = new Scanner(fileData)) {
             while (fileScanner.hasNextLine()) {
                 String line = fileScanner.nextLine();
-                // Assuming each line contains a single invoice ID, modify as per the actual file format
                 if (line.contains(maHoaDon)) {
                     return true;
                 }
