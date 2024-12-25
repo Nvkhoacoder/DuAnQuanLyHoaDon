@@ -105,12 +105,12 @@ public class HoaDonMenuConsoleUi {
         screenPrompt.println("~~~~~~~~Hoa Don Management Menu~~~~~~~~");
         screenPrompt.println("[START] Bat dau chuong trinh.");
         screenPrompt.println("[ABOUT] Thong tin ve phan mem.");
-        screenPrompt.println("[ADD] Them moi Hoa Don.");
-        screenPrompt.println("[REMOVE] Xoa mot Hoa Don.");
+        screenPrompt.println("[ADD] Them Hoa Don.");
+        screenPrompt.println("[REMOVE] Xoa Hoa Don.");
         screenPrompt.println("[UPDATE] Chinh Sua Hoa Don.");
-        screenPrompt.println("[FIND] Tim mot Hoa Don.");
+        screenPrompt.println("[FIND] Tim Hoa Don.");
         screenPrompt.println("[PRINT] In Danh Sach Hoa Don.");
-        screenPrompt.println("[SL] Tong So Luong Hoa Don Tung Loai.");
+        screenPrompt.println("[SL] Tong So Luong Hoa Don Theo Loai.");
         screenPrompt.println("[DT] Tinh tong Doanh Thu Theo Thang.");
         screenPrompt.println("[QUIT] Dong phan mem.");
         screenPrompt.println("~~~~~~~~Hoa Don Management Menu~~~~~~~~");
