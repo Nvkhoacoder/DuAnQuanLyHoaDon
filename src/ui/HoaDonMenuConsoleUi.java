@@ -109,7 +109,7 @@ public class HoaDonMenuConsoleUi {
         screenPrompt.println("[REMOVE] Xoa mot Hoa Don.");
         screenPrompt.println("[UPDATE] Chinh Sua Hoa Don.");
         screenPrompt.println("[FIND] Tim mot Hoa Don.");
-        screenPrompt.println("[PRINT] In Danh Sach Chuyen Xe.");
+        screenPrompt.println("[PRINT] In Danh Sach Hoa Don.");
         screenPrompt.println("[SL] Tong So Luong Hoa Don Tung Loai.");
         screenPrompt.println("[DT] Tinh tong Doanh Thu Theo Thang.");
         screenPrompt.println("[QUIT] Dong phan mem.");

@@ -1,2 +1,0 @@
-khoa123,2025-01-01,Nguyen Vu Khoa,NVK456,500000.0,5.6,Hoa Don Gio
-NVkhoacoder,2025-01-02,Nguyễn Vũ Khoa,B569,500000.0,25,Hoa Don Ngay
