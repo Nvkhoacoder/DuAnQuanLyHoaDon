@@ -117,7 +117,6 @@ public class HoaDonMenuConsoleUi {
     }
 
     private void themHD() {
-
         themHDInputUi.nhapThongTinHoaDon();
     }
 
@@ -127,12 +126,10 @@ public class HoaDonMenuConsoleUi {
 
     private void xoaHD() {
         xoaHDInputUi.nhapMaHoaDonCanXoa();
-
     }
 
     private void suaHD() {
         suaHDInputUi.nhapThongTinSuaHD();
-
     }
 
     private void timHD() {
@@ -141,7 +138,6 @@ public class HoaDonMenuConsoleUi {
 
     private void tongSoLuongHD() {
         demSoLuongHDController.demSoLuongHD();
-
     }
 
     private void tinhDTTheoThang() {
