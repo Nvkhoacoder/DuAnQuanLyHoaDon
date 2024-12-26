@@ -34,7 +34,7 @@ public class HoaDonMenuConsoleUi {
 
     public void hoaDonProgram() {
         String command = " ";
-        screenPrompt.println("Go lenh \"help\" de bat dau chuong trinh");
+        screenPrompt.println("Go lenh \"help\" de duoc ho tro");
 
         while (true) {
             screenPrompt.print(prompt);

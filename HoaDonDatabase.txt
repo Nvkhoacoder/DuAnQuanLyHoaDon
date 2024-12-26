@@ -1,0 +1,4 @@
+nvk123,2025-01-01,Nguyen Vu Khoa,B569,500000.0,15,Hoa Don Ngay
+dvt567,2025-01-02,Dang Vo Thai,B456,60000.0,16.0,Hoa Don Gio
+nql123,2025-01-03,Nguyen Quoc Lam,F569,150000.0,21,Hoa Don Ngay
+gdu123,2025-01-03,Nguyễn Khánh,g789,150000.0,20.0,Hoa Don Ngay
